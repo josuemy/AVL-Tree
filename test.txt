@@ -1,0 +1,124 @@
+********************************************
+ATTENTION!!! Next tests use 1000 numbers.
+********************************************
+TEST1 inserts N elements in increasing order, accesses them and deletes them in the same order.
+TEST1 starting...
+------AVL------
+timeInsertAVL: 0.000348
+timeAccessAVL: 9.8e-05
+timeDeleteAVL: 0.000227
+AVL Total Test Time: 0.000691
+------BST------
+timeInsertBST: 0.003686
+timeAccessBST: 0.003354
+timeDeleteBST: 1.8e-05
+BST Total Test Time: 0.007063
+********************************************
+TEST2 inserts N elements in increasing order, accesses them and deletes them in reverse order.
+TEST2 starting...
+------AVL------
+timeInsertAVL: 0.000315
+timeAccessAVL: 0.000116
+timeDeleteAVL: 0.000309
+AVL Total Test Time: 0.000745
+------BST------
+timeInsertBST: 0.003791
+timeAccessBST: 0.003188
+timeDeleteBST: 0.003165
+BST Total Test Time: 0.010149
+********************************************
+TEST3 inserts N elements in random order, accesses them and deletes them in random order.
+TEST3 starting...
+------AVL------
+timeInsertAVL: 0.000352
+timeAccessAVL: 0.000109
+timeDeleteAVL: 0.000317
+AVL Total Test Time: 0.000781
+------BST------
+timeInsertBST: 0.000135
+timeAccessBST: 0.000124
+timeDeleteBST: 0.000122
+BST Total Test Time: 0.000384
+********************************************
+ATTENTION!!! Next tests use 100000 numbers.
+********************************************
+TEST1 inserts N elements in increasing order, accesses them and deletes them in the same order.
+TEST1 starting...
+------AVL------
+timeInsertAVL: 0.004023
+timeAccessAVL: 0.001031
+timeDeleteAVL: 0.002813
+AVL Total Test Time: 0.007873
+------BST------
+timeInsertBST: 0.360139
+timeAccessBST: 0.335504
+timeDeleteBST: 0.000167
+BST Total Test Time: 0.695819
+********************************************
+TEST2 inserts N elements in increasing order, accesses them and deletes them in reverse order.
+TEST2 starting...
+------AVL------
+timeInsertAVL: 0.00395
+timeAccessAVL: 0.001023
+timeDeleteAVL: 0.002859
+AVL Total Test Time: 0.007838
+------BST------
+timeInsertBST: 0.354785
+timeAccessBST: 0.33642
+timeDeleteBST: 0.340915
+BST Total Test Time: 1.03213
+********************************************
+TEST3 inserts N elements in random order, accesses them and deletes them in random order.
+TEST3 starting...
+------AVL------
+timeInsertAVL: 0.005013
+timeAccessAVL: 0.001579
+timeDeleteAVL: 0.004533
+AVL Total Test Time: 0.011133
+------BST------
+timeInsertBST: 0.002199
+timeAccessBST: 0.001865
+timeDeleteBST: 0.001851
+BST Total Test Time: 0.005921
+********************************************
+ATTENTION!!! Next tests use 500000 numbers.
+********************************************
+TEST1 inserts N elements in increasing order, accesses them and deletes them in the same order.
+TEST1 starting...
+------AVL------
+timeInsertAVL: 0.024372
+timeAccessAVL: 0.006075
+timeDeleteAVL: 0.017295
+AVL Total Test Time: 0.047751
+------BST------
+timeInsertBST: 9.33934
+timeAccessBST: 8.53951
+timeDeleteBST: 0.000826
+BST Total Test Time: 17.8797
+********************************************
+TEST2 inserts N elements in increasing order, accesses them and deletes them in reverse order.
+TEST2 starting...
+------AVL------
+timeInsertAVL: 0.023905
+timeAccessAVL: 0.006047
+timeDeleteAVL: 0.016938
+AVL Total Test Time: 0.0469
+------BST------
+timeInsertBST: 9.18437
+timeAccessBST: 8.67436
+timeDeleteBST: 8.89744
+BST Total Test Time: 26.7562
+********************************************
+TEST3 inserts N elements in random order, accesses them and deletes them in random order.
+TEST3 starting...
+------AVL------
+timeInsertAVL: 0.03244
+timeAccessAVL: 0.010827
+timeDeleteAVL: 0.029366
+AVL Total Test Time: 0.072644
+------BST------
+timeInsertBST: 0.014346
+timeAccessBST: 0.012535
+timeDeleteBST: 0.012416
+BST Total Test Time: 0.039305
+********************************************
